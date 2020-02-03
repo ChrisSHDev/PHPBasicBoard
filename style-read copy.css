@@ -1,0 +1,31 @@
+.jumbotron{
+    background-color: blue;
+    color: #fff;
+    padding: 100px 25px;
+}
+
+.container-fluid{
+    padding: 60px 25px;
+}
+
+div {
+    font-size: 0.9375em;
+}
+
+a:link{
+    color: black;
+    text-decoration: none;
+    font-size: 0.9375em;
+}
+
+a:visited{
+    text-decoration: none;
+    color: blue;
+    font-size: 0.9375em;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+    font-size: 0.9375em;
+}
